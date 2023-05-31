@@ -16,7 +16,7 @@ function funBuscar() {
       else {
         if (campo.value == "2758559") {
           calificacion.innerHTML = "<h2><a href='https://docs.google.com/spreadsheets/d/e/2PACX-1vSRZQC76sG67MgyDuA6kzMxJh7AaogsvOvKNr-4qemDtl1yY6oXhkPEJA-hQQcaIQ/pubhtml?gid=137193308&single=true' target='_blank'>Calificaciones</a></h2>";
-          whatsapp.innerHTML = "<h2><a href='https://chat.whatsapp.com/GKTTxyo5TnS5y9v58dqJF8' target='_blank'>WhatsApp</a></h2>";
+          whatsapp.innerHTML = "<h2><a href='https://chat.whatsapp.com/DS8GW2oxLUJ7flJzcbTLn4' target='_blank'>WhatsApp</a></h2>";
         }else{
           alert("Numero de Ficha no existe");
           campo.focus();
